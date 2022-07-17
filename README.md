@@ -1,5 +1,5 @@
 # Book Listing Exercise
-This is the server side project for the Book Listing Exercise. The client side is available [here](https://github.com/amkozak89/BookReviewClient/blob/main/README.md)
+This is the server side project for the Book Listing Exercise. The client side is available [here](https://github.com/amkozak89/BookReviewClient)
 
 ## Considerations
 #### application.properties
